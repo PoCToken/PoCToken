@@ -1,2 +1,2 @@
 # PoCToken
-Proof of Concept Token
+This is the official Proof of Concept Token repository.
